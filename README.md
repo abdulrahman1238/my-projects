@@ -1,4 +1,4 @@
-# my-projects
+# my-project
 for projects of assignment
 
-## projects note
+## project notes
